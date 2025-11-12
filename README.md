@@ -19,20 +19,20 @@ It allows users to perform **addition (+)** and **multiplication (*)** on two ve
 ---
 
 ## Example
-Enter Vector I: 2
-Enter Vector J: 5
-Enter Vector K: 9
+Enter Vector I: 2.
+Enter Vector J: 5.
+Enter Vector K: 9.
 
-Enter Vector I: 5
-Enter Vector J: 8
-Enter Vector K: 3
+Enter Vector I: 5.
+Enter Vector J: 8.
+Enter Vector K: 3.
 
-1st vector is: 2i 5j 9k
-2nd vector is: 5i 8j 3k
+1st vector is: 2i 5j 9k.
+2nd vector is: 5i 8j 3k.
 
-The addition of vectors:
-7i 13j 12k
+The addition of vectors:.
+7i 13j 12k.
 
-The multiplication of vectors:
-10i 40j 27k
+The multiplication of vectors:.
+10i 40j 27k.
 
